@@ -1,6 +1,6 @@
 # Tic-Tac-Toe with Multiple Agents
 
-This is a Python implementation of the classic Tic-Tac-Toe game where a player can play against an AI opponent. The project includes two AI players: one using the Minimax algorithm with Alpha-Beta Pruning, and the other using Q-learning reinforcement learning.
+This project involves designing a Tic-Tac-Toe game using multiple agents such as Q-Learning in reinforcement learning, the Min-Max algorithm from adversarial search, and Alpha-Beta pruning. The project includes two AI players: one using the Minimax algorithm with Alpha-Beta Pruning, and the other using Q-learning reinforcement learning.
 
 ## Project Files
 
